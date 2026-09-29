@@ -1,0 +1,28 @@
+DRAGONFALL ARENA - CAMERA + PLAYER DEMO FIX
+
+Camera LOCAL placement:
+X = 0
+Y = 30
+Z = -30
+Rotation X = 50
+Rotation Y = 0
+Rotation Z = 0
+
+Player demo damage:
+Fire = 240
+Tail = 120
+Fly = 300
+
+Enemy speed:
+2.0
+
+To use the fix:
+1. Close Unity.
+2. Copy this Assets folder into your Unity project and merge/replace.
+3. Open Unity.
+4. Wait for compilation.
+5. Open DragonfallArena.
+6. Press Play.
+
+If you want to permanently save the camera LOCAL position in the scene:
+Tools > Dragonfall Arena > APPLY FINAL LOOK TO CURRENT SCENE

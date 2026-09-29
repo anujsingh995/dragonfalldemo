@@ -1,0 +1,20 @@
+DRAGONFALL ARENA - FINAL CLEAN ASSETS
+
+Your previous project contained duplicate C# scripts and duplicate TextMesh Pro example files.
+This package removes the duplicates.
+
+INSTALL:
+1. CLOSE UNITY.
+2. BACK UP YOUR CURRENT PROJECT.
+3. In the project folder rename Assets -> Assets_OLD.
+4. Copy the Assets folder from this package into the project folder.
+5. Open Unity 6.6.
+6. Wait for import/compile to finish.
+7. Open Assets/game/Scenes/DragonfallArena.unity.
+8. Press Play.
+
+DO NOT copy Assets_OLD back into Assets and do not merge the old Assets folder.
+
+Camera: FOV 22, local position (0,20,-20), local rotation (50,0,0).
+Controls: WASD, 1 Fire, 2 Tail, 3 Fly.
+Player demo damage: 10x. Enemy speed: 2.
